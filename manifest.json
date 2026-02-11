@@ -20,7 +20,7 @@
     {"path": "deep/the-body.md", "references": []},
     {"path": "deep/the-breath-of-a-system.md", "references": []},
     {"path": "deep/the-cancer-of-intelligence.md", "references": []},
-    {"path": "deep/the-sandbox.md", "references": ["ai/core/holographic-architecture.md", "system/archetypes/rosetta-stone.md", "system/archetypes/kirby.md", "system/axioms/topology.md", "core/docs/p-forgot-it-was-np.md"]},
+    {"path": "deep/the-sandbox.md", "references": ["ai/core/holographic-architecture.md", "system/archetypes/rosetta-stone.md", "system/archetypes/kirby.md", "system/axioms/topology.md", "core/docs/p-forgot-it-was-np.md", "system/patterns/comprehension.md", "system/patterns/the-three-black-boxes.md"]},
     {"path": "seed/the-system-is-alive.md", "references": []}
   ],
   "last_updated": "2026-02-11"
