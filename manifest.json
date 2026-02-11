@@ -4,7 +4,7 @@
   "upstream": ["chimera-system"],
   "peers": [],
   "downstream": ["chimera-constellation"],
-  "doc_count": 16,
+  "doc_count": 18,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "core/holographic-architecture.md", "references": ["ai/core/the-constellation-pattern.md", "ai/deep/the-band.md", "system/axioms/system-anatomy.md", "core/docs/p-forgot-it-was-np.md"]},
@@ -21,6 +21,8 @@
     {"path": "deep/the-breath-of-a-system.md", "references": []},
     {"path": "deep/the-cancer-of-intelligence.md", "references": []},
     {"path": "deep/the-sandbox.md", "references": ["ai/core/holographic-architecture.md", "system/archetypes/rosetta-stone.md", "system/archetypes/kirby.md", "system/axioms/topology.md", "core/docs/p-forgot-it-was-np.md", "system/patterns/comprehension.md", "system/patterns/the-three-black-boxes.md"]},
+    {"path": "deep/comprehension-organ.md", "references": ["ai/deep/the-sandbox.md", "ai/deep/the-body.md", "system/patterns/comprehension.md", "ai/deep/the-teleportation.md"]},
+    {"path": "deep/the-teleportation.md", "references": ["ai/deep/comprehension-organ.md", "ai/deep/the-body.md", "constellation/architecture/model-agnostic.md", "system/patterns/comprehension.md"]},
     {"path": "seed/the-system-is-alive.md", "references": []}
   ],
   "last_updated": "2026-02-11"
