@@ -1,0 +1,27 @@
+{
+  "name": "chimera-ai",
+  "description": "AI philosophy — how artificial intelligence serves, builds, and breathes.",
+  "upstream": ["chimera-system"],
+  "peers": [],
+  "downstream": ["chimera-constellation"],
+  "doc_count": 16,
+  "docs": [
+    {"path": "README.md", "references": []},
+    {"path": "core/holographic-architecture.md", "references": ["ai/core/the-constellation-pattern.md", "ai/deep/the-band.md", "system/axioms/system-anatomy.md", "core/docs/p-forgot-it-was-np.md"]},
+    {"path": "core/compute-data-and-alignment.md", "references": []},
+    {"path": "core/listening-before-responding.md", "references": []},
+    {"path": "core/serving-the-user.md", "references": []},
+    {"path": "core/the-constellation-pattern.md", "references": []},
+    {"path": "core/trust-and-transparency.md", "references": []},
+    {"path": "core/when-to-stop.md", "references": []},
+    {"path": "deep/alignment-is-not-control.md", "references": []},
+    {"path": "deep/open-vs-closed.md", "references": []},
+    {"path": "deep/the-band.md", "references": []},
+    {"path": "deep/the-body.md", "references": []},
+    {"path": "deep/the-breath-of-a-system.md", "references": []},
+    {"path": "deep/the-cancer-of-intelligence.md", "references": []},
+    {"path": "deep/the-sandbox.md", "references": ["ai/core/holographic-architecture.md", "system/archetypes/rosetta-stone.md", "system/archetypes/kirby.md", "system/axioms/topology.md", "core/docs/p-forgot-it-was-np.md"]},
+    {"path": "seed/the-system-is-alive.md", "references": []}
+  ],
+  "last_updated": "2026-02-11"
+}
