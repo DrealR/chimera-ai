@@ -314,6 +314,8 @@ What evidence should narrow, suspend, or end the model's authority?
 
 - [Model Constellation Research Protocol](model-constellation-research-protocol.md)
 - [Compressed Civilizational Time and Temporal Asymmetry](compressed-civilizational-time-and-temporal-asymmetry.md)
+- [Corrigible Mirrors and Shared Primes](corrigible-mirrors-and-shared-primes.md)
+- [Between the Waters — Corrigible Mirror Checklist](between-the-waters-implementation-checklist.md)
 - [Trust and Transparency](trust-and-transparency.md)
 - [When to Stop](when-to-stop.md)
 - [Alignment Is Not Control](../deep/alignment-is-not-control.md)

@@ -262,3 +262,9 @@ retention_policy: ""
 > **A system that accepts correction only when correction is free has not yet demonstrated corrigibility.**
 
 > **The common structure must preserve the bodies capable of correcting it.**
+
+## See also
+
+- [Reflexive Mirrors and Answerable Models](reflexive-mirrors-and-answerable-models.md)
+- [Between the Waters — Corrigible Mirror Checklist](between-the-waters-implementation-checklist.md)
+- [Model Constellation Research Protocol](model-constellation-research-protocol.md)
