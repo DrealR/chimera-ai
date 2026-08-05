@@ -34,8 +34,13 @@ Then `deep/` — where it gets specific.
 seed/   the system is alive
 core/   compute data and alignment, listening,
         serving the user, when to stop,
-        the constellation, trust
+        the constellation, trust, reflexive mirrors
 deep/   the cancer of intelligence, the band,
         the body, alignment is not control,
         the breath of a system, open vs closed
 ```
+
+## New operating mechanism
+
+- **[Reflexive Mirrors and Answerable Models](core/reflexive-mirrors-and-answerable-models.md)** — separates source, trace, model, output, and consequence bodies; traces when predictions rewrite their own source field; requires affected bodies to be able to correct, appeal, exit, and answer back.
+- **[Bounded Character Simulation Protocol](core/bounded-character-simulation-protocol.md)** — runs CHIMERA Story Mode with separated world truth and character knowledge, explicit state transitions, counterfactual provenance, human canon gates, and protections against omniscient drift, character convergence, and plot obedience.

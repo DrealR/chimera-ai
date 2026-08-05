@@ -4,7 +4,7 @@
   "upstream": ["chimera-system"],
   "peers": [],
   "downstream": ["chimera-constellation"],
-  "doc_count": 18,
+  "doc_count": 25,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "core/holographic-architecture.md", "references": ["ai/core/the-constellation-pattern.md", "ai/deep/the-band.md", "system/axioms/system-anatomy.md", "core/docs/p-forgot-it-was-np.md"]},
@@ -14,6 +14,12 @@
     {"path": "core/the-constellation-pattern.md", "references": []},
     {"path": "core/trust-and-transparency.md", "references": []},
     {"path": "core/when-to-stop.md", "references": []},
+    {"path": "core/model-constellation-research-protocol.md", "references": ["framework/docs/benchmark-coordinates-and-evidence-bodies.md"]},
+    {"path": "core/compressed-civilizational-time-and-temporal-asymmetry.md", "references": ["framework/docs/relative-timescales-and-nested-mortality.md"]},
+    {"path": "core/reflexive-mirrors-and-answerable-models.md", "references": ["framework/docs/prime-mirror-composite-observation-architecture.md", "ai/core/model-constellation-research-protocol.md", "ai/core/compressed-civilizational-time-and-temporal-asymmetry.md"]},
+    {"path": "core/corrigible-mirrors-and-shared-primes.md", "references": ["framework/docs/prime-mirror-composite-observation-architecture.md", "framework/docs/mirror-rhythm-and-shared-body-analysis.md"]},
+    {"path": "core/between-the-waters-implementation-checklist.md", "references": ["ai/core/corrigible-mirrors-and-shared-primes.md"]},
+    {"path": "core/bounded-character-simulation-protocol.md", "references": ["framework/docs/narrative-substrate-and-story-mode.md", "ai/core/reflexive-mirrors-and-answerable-models.md", "ai/core/corrigible-mirrors-and-shared-primes.md"]},
     {"path": "deep/alignment-is-not-control.md", "references": []},
     {"path": "deep/open-vs-closed.md", "references": []},
     {"path": "deep/the-band.md", "references": []},
@@ -23,7 +29,8 @@
     {"path": "deep/the-sandbox.md", "references": ["ai/core/holographic-architecture.md", "system/archetypes/rosetta-stone.md", "system/archetypes/kirby.md", "system/axioms/topology.md", "core/docs/p-forgot-it-was-np.md", "system/patterns/comprehension.md", "system/patterns/the-three-black-boxes.md"]},
     {"path": "deep/comprehension-organ.md", "references": ["ai/deep/the-sandbox.md", "ai/deep/the-body.md", "system/patterns/comprehension.md", "ai/deep/the-teleportation.md"]},
     {"path": "deep/the-teleportation.md", "references": ["ai/deep/comprehension-organ.md", "ai/deep/the-body.md", "constellation/architecture/model-agnostic.md", "system/patterns/comprehension.md"]},
+    {"path": "deep/the-chimera-arena.md", "references": []},
     {"path": "seed/the-system-is-alive.md", "references": []}
   ],
-  "last_updated": "2026-02-11"
+  "last_updated": "2026-08-04"
 }
